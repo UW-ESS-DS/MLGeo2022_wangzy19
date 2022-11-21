@@ -1,0 +1,111 @@
+,id,survey_id,name,external_db,external_id,lat,lon,date,max_date,area,mean_slope,mean_thickness,mean_thickness_uncertainty,max_thickness,max_thickness_uncertainty,number_points,number_profiles,length_profiles,interpolation_method,flag,remarks,marker_size
+32,33,9,Easton Glacier,FOG,1367,48.75,-121.83,1992-01-01,1992-12-31,2.9,0.0,58.0,,107.0,,64.0,,,,,,330.0
+33,34,10,Lemon Creek Glacier,FOG,3334,58.38,-134.36,1956-06-21,1956-09-22,11.7,0.0,66.0,,200.0,,182.0,,,,,,735.0
+34,35,11,Praviy Aktru,WGI,SU5A15106127,50.06134,87.69741,,,5.15,0.0,56.0,,,,,,,,,,270.0
+35,36,11,Maliy Aktru,WGI,SU5A15106126,50.04967,87.74552,,,2.84,0.0,86.0,,,,,,,,,,5431.0
+36,37,11,Leviy Aktru,WGI,SU5A15106128,50.08008,87.69025,,,5.95,0.0,90.0,,,,,,,,,,8103.0
+37,38,11,Vodopadniy,FOG,780,50.0503,87.7886,,,0.75,0.0,55.0,,,,,,,,,,244.0
+38,39,12,Batysh Sook Glacier,FOG,781,41.78681,77.74927,,,1.18,0.0,34.0,,,,,,,,,,29.0
+39,40,12,Sary-Tor Glacier,FOG,805,41.825132,78.176022,,,3.61,0.0,53.0,,,,,,,,,,200.0
+40,41,12,Golubin Glacier,FOG,753,42.45448,74.49766,,,5.757,0.0,53.0,,,,,,,,,,200.0
+41,42,12,Davidova Glacier,FOG,804,41.8273,78.20493,,,11.32,0.0,61.0,,,,,,,,,,445.0
+42,43,13,Karabatkak Glacier,FOG,813,42.14031,78.2728,,,4.19,0.0,53.0,,,,,,,,,,200.0
+43,44,13,Tuyuksu (central),FOG,817,43.05,77.08,,,2.72,0.0,104.0,,,,,,,,,,32859.0
+44,45,14,Fedchenko Glacier,,,38.767,72.283,,,824.0,0.0,175.0,,900.0,,,,,,,LAT/LON: Wikipedia,39824784.0
+45,46,15,Abramov Glacier,FOG,732,39.6097,71.56986,,,22.5,0.0,110.0,,,,,,,,,,59874.0
+46,47,13,31,FOG,3534,62.58879,140.86536,,,3.2,0.0,76.0,,,,,,,,,,1998.0
+47,48,16,Kavrayskogo,WGI,SU5X13207002,45.23645,80.78166,1962-01-01,1962-12-31,3.2,0.0,49.0,,116.0,,,,,,,LAT/LON: FoG 2009,134.0
+48,49,16,Krasovskogo,WGI,SU5X13207003,45.23513,80.80835,1962-01-01,1962-12-31,3.4,0.0,49.0,,139.0,,,,,,,LAT/LON: Katalog Lednikow,134.0
+49,50,17,214,WGI,SU5X13205214,44.92845,79.13669,1981-01-01,1981-12-31,1.0,0.0,52.0,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Katalog Lednikow,181.0
+50,51,17,252,WGI,SU5X13205252,44.883,79.285,1981-01-01,1981-12-31,2.0,0.0,43.0,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Katalog Lednikow,73.0
+51,52,17,Kaskabulakskii,WGI,SU5X13205253,44.883,79.317,1981-01-01,1981-12-31,2.8,0.0,52.0,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Katalog Lednikow,181.0
+52,53,17,259,WGI,SU5X13205259,44.917,79.317,1981-01-01,1981-12-31,1.2,0.0,47.0,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Katalog Lednikow,109.0
+53,54,17,Ajusaiskii,WGI,SU5X13205180,44.85772,79.45203,1981-01-01,1981-12-31,2.2,0.0,45.0,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Katalog Lednikow,90.0
+54,55,17,183,WGI,SU5X13205183,44.83929,79.46103,1981-01-01,1981-12-31,1.6,0.0,49.0,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Katalog Lednikow,134.0
+55,56,17,Khejerdala,WGI,SU5X13206016,44.97,79.42,1981-01-01,1981-12-31,5.3,0.0,54.0,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Katalog Lednikow,221.0
+56,57,17,Korjunskii,WGI,SU5X13205173,44.89076,79.48539,1981-01-01,1981-12-31,2.3,0.0,67.0,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Katalog Lednikow,812.0
+57,58,17,Mgg,WGI,SU5X13206026,44.97,79.53,1981-01-01,1981-12-31,2.0,0.0,37.0,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Katalog Lednikow,40.0
+58,59,17,Ekspeditsiy,WGI,SU5X13206029,44.95518,79.54601,1981-01-01,1981-12-31,1.5,0.0,39.0,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Katalog Lednikow,49.0
+59,60,17,Rodina,WGI,SU5X13206030,44.95315,79.56239,1981-01-01,1981-12-31,1.1,0.0,32.0,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Katalog Lednikow,24.0
+64,65,17,Kartaygan,WGI,SU5X13206049,44.99511,79.75732,1981-01-01,1981-12-31,1.5,0.0,58.0,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Katalog Lednikow,330.0
+65,66,17,Ashar,WGI,SU5X13206053,45.0,79.82,1981-01-01,1981-12-31,1.7,0.0,51.0,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Katalog Lednikow,164.0
+67,68,17,Maliy Useksiy,,,44.5841,79.4753,1981-01-01,1981-12-31,2.6,0.0,50.0,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Google Earth,148.0
+68,69,17,Denisov,,,44.5858,79.498,1981-01-01,1981-12-31,1.0,0.0,47.0,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Google Earth,109.0
+70,71,17,305,,,44.7016,79.5927,1981-01-01,1981-12-31,1.0,0.0,47.0,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Google Earth,109.0
+71,72,17,59,,,44.722,79.648,1981-01-01,1981-12-31,1.0,0.0,29.0,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Google Earth,18.0
+72,73,17,Karabulaksiy,FOG,749,44.7049,79.7181,1981-01-01,1981-12-31,1.5,1.0,31.0,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Google Earth,22.0
+73,74,17,Juytas,,,44.685,79.7254,1981-01-01,1981-12-31,2.1,0.0,54.0,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Google Earth,221.0
+74,75,17,261,,,44.679,79.7375,1981-01-01,1981-12-31,1.1,0.0,49.0,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Google Earth,134.0
+75,76,17,Keregetas,,,44.6667,79.7391,1981-01-01,1981-12-31,1.7,0.0,25.0,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Google Earth,12.0
+76,77,17,Bolshoy Koksaysk,,,44.7404,79.961,1981-01-01,1981-12-31,2.8,0.0,48.0,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Google Earth,121.0
+77,78,17,Kazanskii,WGI,SU5X13205092,44.77608,79.93852,1981-01-01,1981-12-31,3.8,0.0,47.0,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Katalog Lednikow,109.0
+78,79,17,82,WGI,SU5X13205082,44.77695,79.82588,1981-01-01,1981-12-31,2.9,0.0,45.0,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Katalog Lednikow,90.0
+79,80,17,93,,,44.582,80.29,1981-01-01,1981-12-31,0.8,0.0,40.0,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Google Earth,54.0
+80,81,17,Panfilova,,,44.5821,80.2741,1981-01-01,1981-12-31,4.2,0.0,49.0,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Google Earth,134.0
+81,82,17,Khorgosskiy,,,44.5846,80.2417,1981-01-01,1981-12-31,2.5,0.0,42.0,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Google Earth,66.0
+82,83,17,Tishkan,,,44.6142,80.1426,1981-01-01,1981-12-31,2.1,0.0,27.0,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Google Earth,14.0
+83,84,17,Majak Vostochniy,,,44.5723,80.172,1981-01-01,1981-12-31,1.4,0.0,59.0,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Google Earth,365.0
+84,85,17,125,,,44.5804,80.1887,1981-01-01,1981-12-31,1.9,0.0,36.0,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Google Earth,36.0
+85,86,17,Majak Zapadniy,,,44.56647,80.12033,1981-01-01,1981-12-31,0.9,0.0,48.0,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Google Earth,121.0
+86,87,17,Sagrir,,,44.59,80.1179,1981-01-01,1981-12-31,1.5,0.0,33.0,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Google Earth,27.0
+90,91,18,Shumskogo,WGI,SU5A03003025,45.08,80.23,1984-01-01,1984-12-31,2.82,0.0,62.0,,,,,,,,,LAT/LON: FoG 2009,492.0
+91,92,18,Muravlev,FOG,796,45.0958,80.23832,1984-01-01,1984-12-31,1.0,0.0,61.0,,,,,,,,,,445.0
+255,333,71,Dokriani Glacier,WGI,IN5O152D0019,30.855,78.818,1995-11-01,1995-11-30,9.7,12.0,30.0,,120.0,,,8.0,,,,,20.0
+273,358,86,Sperry Glacier,FOG,218,48.62495,-113.75707,2005-01-01,2008-12-31,1.0,10.0,26.0,,80.0,,,9.0,,kriging,,,13.0
+276,362,88,Pizolgletscher,WGI,CH4R0140D001,46.9595,9.3891,2010-02-16,,0.08068,22.0,15.0,5.0,36.0,5.0,5936.0,34.0,4.83,minimum curvature,,,4.0
+384,486,97,Schneeferner,WGI,DE4J144IS001,47.4139,10.972,2006-11-07,,0.307,18.0,17.0,2.0,52.0,2.0,448.0,11.0,2.2,spline,,,5.0
+385,487,97,Südlicher Schneeferner,WGI,DE4J144IS002,47.4,10.9736,2006-11-07,,0.084,22.0,5.0,2.0,17.0,2.0,277.0,7.0,1.4,spline,,,1.0
+386,488,98,Höllentalferner,WGI,DE4J144IS003,47.4231,10.9912,2010-09-17,,0.223,26.0,12.0,2.0,52.0,2.0,2530.0,6.0,2.45,inverse distance,,,3.0
+387,489,97,Blaueis,WGI,DE4J143SZ001,47.571,12.8666,2007-10-03,,0.106,33.0,4.0,2.0,13.0,2.0,145.0,4.0,1.2,spline,,,1.0
+388,490,97,Watzmanngletscher,WGI,DE4J143SZ002,47.5543,12.9282,2007-10-02,,0.101,22.0,6.0,2.0,16.0,2.0,106.0,7.0,1.5,spline,,,1.0
+395,497,100,Findelengletscher,WGI,CH4N01356003,45.9936,7.87051,2008-01-01,2012-12-31,13.07938,13.0,89.0,,226.0,,13555.0,,,,,,7331.0
+522,2093,130,Glaciar Charquini Sur,RGI,RGI40-16.00532,-16.3023,-68.1064,2012-08-07,,0.3097,21.0,22.0,,48.0,10.0,695.0,,,,,,9.0
+523,2011,131,Glaciar La Conejeras,FOG,2721,4.80506,-75.3715,2014-01-25,,0.191,26.0,22.0,,53.0,10.0,352.0,,,,,,9.0
+524,2012,132,Glaciar Zongo,WGI,BO1D22173132,-16.266,-68.148,2012-08-09,,1.8841,21.0,65.0,,109.0,10.0,1036.0,,,,,,665.0
+525,2013,133,Blauschnee,,,47.25038,9.34301,2011-03-01,2011-03-31,0.0264,48.0,8.0,1.0,22.0,3.0,2877.0,,,,,,2.0
+526,2014,134,Vadret dal Corvatsch,,,46.418641,9.825164,2013-03-01,2013-03-31,0.2257,22.0,17.0,3.0,50.0,7.0,5361.0,,,,,,5.0
+527,2015,134,Gurschenfirn,,,46.6049,8.61212,2013-03-01,2013-03-31,0.13572,27.0,15.0,2.0,44.0,7.0,2073.0,,,,,,4.0
+528,2016,134,Vadret dal Murtèl,,,46.408281,9.825684,2013-03-01,2013-03-31,0.3015,15.0,23.0,4.0,48.0,7.0,2790.0,,,,,,9.0
+529,2017,135,Muttgletscher,,,46.550849,8.417236,2009-03-01,2009-03-31,0.36654,17.0,26.0,4.0,57.0,9.0,2316.0,,,,,,13.0
+530,2018,136,Glacier de Plan Névé,,,46.1666,6.93715,2013-10-03,,0.5825,15.0,19.0,3.0,54.0,8.0,1005.0,,,,,,6.0
+531,2019,133,Sardonagletscher,,,46.916205,9.255655,2011-03-01,2011-03-31,0.39062,20.0,13.0,2.0,29.0,4.0,4501.0,,,,,,3.0
+532,2020,134,Schwarzwasserfirn,,,46.5967,8.61109,2013-03-01,2013-03-31,0.05848,27.0,8.0,1.0,18.0,3.0,1361.0,,,,,,2.0
+533,2021,133,Glatschiu dil Segnas,,,46.910684,9.249232,2011-03-01,2011-03-31,0.37938,17.0,19.0,3.0,51.0,8.0,4501.0,,,,,,6.0
+534,2022,134,Glacier du Sex Rouge,,,46.327,7.21308,2012-03-01,2012-03-31,0.3017,15.0,29.0,4.0,58.0,9.0,3681.0,,,,,,18.0
+535,2023,134,Sankt Annafirn,,,46.600208,8.602228,2013-03-01,2013-03-31,0.2176,22.0,16.0,2.0,44.0,7.0,2818.0,,,,,,4.0
+536,2024,134,Glacier de Tortin,,,46.08483,7.309231,2013-03-01,2013-03-31,0.62967,16.0,25.0,4.0,57.0,9.0,6434.0,,,,,,12.0
+537,2025,137,Glacier de Tsanfleuron,,,46.3202,7.22536,2010-03-01,2010-03-31,3.2275,10.0,69.0,10.0,174.0,26.0,7817.0,,,,,,992.0
+538,2026,138,Glacier de Tsarmine,,,46.048207,7.517633,2015-03-01,2015-03-31,0.2605,30.0,15.0,2.0,36.0,5.0,308.0,,,,,,4.0
+568,2057,142,Storbreen,FOG,302,61.573395,8.131989,2005-04-26,2006-05-09,5.36,14.0,90.0,20.0,233.0,15.0,132.0,,,anudem,,132,8103.0
+569,2059,144,Hellstugubreen,FOG,300,61.555861,8.441361,2011-03-16,2011-03-17,2.9,13.0,70.0,15.0,182.0,15.0,12377.0,,,anudem,,,1096.0
+570,2060,144,Vestre Memurubreen,FOG,1318,61.541544,8.454024,2011-03-16,2011-03-17,8.6,7.0,128.0,15.0,257.0,15.0,21228.0,,,anudem,,SLOPE/AREA: 20030809-inventory,362217.0
+571,2061,145,Gråsubreen,FOG,299,61.656513,8.599633,2012-09-01,2012-09-30,2.1,12.0,60.0,15.0,137.0,15.0,5328.0,3.0,4.5,anudem,,,403.0
+572,2062,146,Langfjordjøkelen,FOG,290,70.128,21.735,2008-03-13,2008-05-21,3.2,13.0,67.0,15.0,211.0,15.0,15310.0,,,triangulation,,,812.0
+576,2067,150,Rundvassbreen,NVE,941,67.278,16.037,2004-04-21,2004-04-22,11.1,5.0,208.0,,388.0,,5659.0,,,anudem,,"Measurements conducted mainly on Rundvassbreen, an outlet glacier of Blåmannsisen ice cap",1079754999.0
+577,2068,151,Hardangerjøkulen,NVE,HAJ,60.546,7.432,2010-05-07,2010-05-08,71.3,6.0,148.0,,386.0,,5180.0,,,anudem,,,2676445.0
+583,2074,157,Marukh,WGI,SU5T09104021,43.361887,41.419771,2011-08-25,,2.76,13.0,97.0,3.0,333.0,10.0,49144.0,28.0,14.3,anudem,other,MEAN_THICKNESS: Based on the interpolated entire glacier area,16317.0
+584,2075,158,Elfenbeinbreen,RGI,RGI50-07.00428,78.1851,18.2064,2014-04-05,2014-04-07,39.96,3.0,85.0,9.0,285.0,7.0,14624.0,,105.0,kriging,,"MEAN_SLOPE: Altitude range/glacier length | MEAN_THICKNESS/MAX_THICKNESS: Interpolated over entire grid | INTERPOLATION_METHOD: Anisotropic ordinary kriging, spherical variogram, 30 m grid size",4914.0
+585,2076,158,Sveigbreen,RGI,RGI40-07.00409,78.1071,17.6978,2014-04-05,2014-04-07,28.59,3.0,74.0,7.0,212.0,5.0,4241.0,,36.0,kriging,partial,"INTERPOLATION_METHOD: Anisotropic ordinary kriging, spherical variogram, 100 m grid size | MEAN_SLOPE: Altitude range/glacier length | AREA: Less than RGI area because part in Hellefonna not surveyed | MEAN_THICKNESS/MAX_THICKNESS: Interpolated over entire grid",1635.0
+592,2083,165,Urumqi Glacier No. 1,,,43.11124,86.810015,2014-01-01,2014-12-31,1.59,20.0,44.0,,141.0,,1387.0,16.0,,kriging,,"LAT/LON: Google Earth, located on upper tongue of eastern branch | MEAN_SLOPE: Calculated from DEM by WGMS.",81.0
+593,2084,166,West Washmawapta Glacier,,,51.177,-116.33,2006-06-01,2006-08-31,1.0,16.0,70.0,7.0,185.0,13.0,199.0,21.0,,,,"Near the steeply-sloping marginal walls, where the ice is thin and the topography complex, errors increased to 13 +- 2 m (27 +- 8%) | MEAN_SLOPE: Calculated from DEM by WGMS",1096.0
+594,2085,167,Muz Taw,RGI,RGI32-10.00353,47.065194,85.563635,2013-01-01,2013-12-31,3.078,17.0,23.0,,122.0,,675.0,3.0,2.688,natural neighbor,,"MEAN_THICKNESS: Given for the entire glacier | Accuracy was reported as 1.18% | INTERPOLATION_METHOD: Reconstruct thickness along flowline in area without survey, then interpolate with the method 'natural neighbor' (arctoolbox -- 3D analyst tools -- Raster Interpolation)",9.0
+595,2086,168,Sigonghe 4,FOG,838,43.8342,88.3261,2009-01-01,2009-12-31,2.8,20.0,28.0,,104.0,,624.0,5.0,2.94,natural neighbor,,"MEAN_THICKNESS: Entire glacier | INTERPOLATION_METHOD: Reconstruct thickness along flowline in area without survey, then interpolate with the method 'natural neighbor' (arctoolbox -- 3D analyst tools -- Raster Interpolation)",16.0
+596,2087,169,Urumqi Glacier No. 1,FOG,853,43.11124,86.810015,2006-08-01,2006-08-31,1.69,20.0,46.0,,140.0,5.0,679.0,18.0,7.618,natural neighbor,,"INTERPOLATION_METHOD: Reconstruct thickness along flowline in area without survey, then interpolate with the method 'natural neighbor' (arctoolbox -- 3D analyst tools -- Raster Interpolation) | MEAN_THICKNESS: For the entire glacier",99.0
+597,2088,169,Urumqi Glacier No. 1 (east branch),FOG,1511,43.11124,86.810015,2006-08-01,2006-08-31,1.09,18.0,44.0,,140.0,5.0,423.0,9.0,4.485,natural neighbor,,"INTERPOLATION_METHOD: Reconstruct thickness along flowline in area without survey, then interpolate with the method 'natural neighbor' (arctoolbox -- 3D analyst tools -- Raster Interpolation) | MEAN_THICKNESS: For the entire glacier",81.0
+598,2089,169,Urumqi Glacier No. 1 (west branch),FOG,1512,43.118294,86.80358,2006-08-01,2006-08-31,0.6,23.0,49.0,,120.0,5.0,256.0,9.0,3.133,natural neighbor,,"INTERPOLATION_METHOD: Reconstruct thickness along flowline in area without survey, then interpolate with the method 'natural neighbor' (arctoolbox -- 3D analyst tools -- Raster Interpolation) | MEAN_THICKNESS: For the entire glacier",134.0
+599,2090,170,Sary-Tor Glacier,WGI,SU5X14105356,41.825132,78.176022,2013-05-20,,2.39,16.0,51.0,,159.0,,11354.0,21.0,7.0,anudem,,MEAN_THICKNESS: Based on the interpolated entire glacier area,164.0
+601,2092,172,Aqqutikitsoq,,,67.094,-53.213,2014-08-15,,2.85,12.0,50.0,,174.0,,3013.0,53.0,,triangulation,,NAME: Aqqutikitsoq is the name of a nearby mountain and is used as well in Marcer et al. 2017 (https://doi.org/10.1657/AAAR0016-049) in lack of a glacier name.,148.0
+604,2096,175,Shiyi,RGI,RGI60-13.31537,38.214,99.881,2010-10-01,2010-10-31,0.5368,24.0,16.0,,66.0,,295.0,6.0,1.16,inverse distance,,AREA: Obtained by in-situ survey by GPS in 2010,4.0
+605,2097,176,Haxilegen 51,RGI,RGI60-13.47247,43.731,84.391,2010-09-03,,1.24651,20.0,15.0,,72.0,,585.0,6.0,2.32,inverse distance,,,4.0
+606,2098,177,Heigou 8,RGI,RGI60-13.48211,43.784,88.356,2009-08-01,,6.078,25.0,58.0,,177.0,,907.0,5.0,4.31,inverse distance,partial,,330.0
+607,2099,178,Shenqi Peak,RGI,RGI60-13.43165,41.78,79.894,2008-08-01,2008-08-31,1.55417,10.0,29.0,,148.0,,824.0,9.0,4.77,kriging,partial,AREA/MEAN_SLOPE: Only for the surveyed tongue | NAME: Also named 'Qingbingtan Glacier No. 72',18.0
+608,2100,179,Qiyi,RGI,RGI60-13.32330,39.237,97.755,1980-01-01,1980-12-31,2.96629,21.0,41.0,,121.0,,106.0,11.0,4.05,kriging,,,60.0
+612,2104,183,Ålfotbreen,NVE,ÅLB,61.75,5.67,2016-04-12,,10.6,9.0,65.0,,241.0,,38490.0,,,other,,"Aalfotbreen is the entire glacier complex, which includes the two mass balance glaciers Aalfotbreen and Hansebreen and a few other southern units, here called Aalfotbreen South. These are included as three separate surveys. | INTERPOLATION_METHOD: Inverse distance weighting (IDW) and triangulation (TRI)",665.0
+613,2105,183,Ålfotbreen,FOG,317,61.75,5.64,2016-04-12,,4.0,10.0,57.0,,158.0,,641.0,,,other,,INTERPOLATION_METHOD: Inverse Distance Weighting (IDW) and Triangulation (TRI).,298.0
+614,2106,183,Hansebreen,FOG,322,61.75,5.67,2016-04-12,,2.6,9.0,85.0,,241.0,,446.0,,,other,,INTERPOLATION_METHOD: Inverse Distance Weighting (IDW) and Triangulation (TRI).,4914.0
+615,2107,183,Ålfotbreen (south),NVE,2096,61.73,5.66,2016-04-12,,3.28,9.0,68.0,,163.0,,426.0,,,other,,INTERPOLATION_METHOD: Inverse Distance Weighting (IDW) and Triangulation (TRI).,897.0
+619,2111,187,Blekumbreen,GLIMS,G016068E78246N,78.24548,16.06438,2013-04-27,,2.1,13.0,32.0,,106.0,,4484.0,26.0,22.5,anudem,partial,MEAN_THICKNESS: Based on the interpolated entire glacier area,24.0
+627,2119,193,Tuyuksu (central),GLIMS,G077080E43049N,43.043653,77.080587,2013-08-28,,2.61,20.0,47.0,2.0,103.0,2.0,8568.0,36.0,25.0,anudem,partial,MEAN_THICKNESS: Based on the interpolated entire glacier area,109.0
+631,2123,195,Aldegondabreen,RGI,RGI50-07.01079,77.9714,14.0691,1999-05-06,1999-05-08,6.737,6.0,65.0,7.0,191.0,25.0,2018.0,24.0,40.0,kriging,,"MEAN_SLOPE: Altitude range/glacier length | MEAN_THICKNESS/MAX_THICKNESS: Interpolated over entire grid | INTERPOLATION_METHOD: Anisotropic ordinary kriging, spherical variogram, 30 m grid size | MEAN_THICKNESS: Martín‑Español et al. (2013): Radio‑echo sounding and ice volume estimates of western Nordenskiöld Land glaciers, Svalbard (https://doi.org/10.3189/2013AoG64A109).",665.0
+745,2240,209,Ariebreen,RGI,RGI60-07.00209,77.0272,15.4854,2007-04-17,,0.37,19.0,27.0,2.0,82.0,4.0,461.0,,6.4,kriging,,,14.0
+833,2328,229,Austre Lovenbreen,RGI,RGI60-07.00496,78.871,12.1614,2010-04-24,,4.6,14.0,76.0,9.0,,,67542.0,120.0,,kriging,,,1998.0
